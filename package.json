@@ -4,7 +4,7 @@
   "description": "Backend for expense tracker",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "nodemon app.js",
   },
   "author": "Brad Traversy",
   "license": "MIT",
